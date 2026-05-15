@@ -157,7 +157,7 @@ Vercel — set the env vars, register the cron in `vercel.json` (already present
 - `(app)/` pages declare `export const dynamic = 'force-dynamic'` to avoid stale redirects.
 - Default to **no code comments**. If one is needed, explain WHY, not WHAT.
 
-## Roadmap
+## Roadmap.
 
 These are pragmatically out of scope for the first event:
 
